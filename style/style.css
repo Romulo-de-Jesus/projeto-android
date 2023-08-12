@@ -131,7 +131,7 @@ header{
 header > p{
     font-family: var(--fonte-padrao);
     margin-top: 20px;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
 }
 header > h1{
 text-shadow: 2px 1px black;
